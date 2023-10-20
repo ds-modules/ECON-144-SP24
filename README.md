@@ -1,5 +1,5 @@
 # ECON-144-SP24
-Economics 144 - Empirical Asset Pricing
+Economics 144 - Empirical Asset Pricing - Spring 24
 
 Instructor: Stephen Bianchi
 
